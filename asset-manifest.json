@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Code-Hero91/space-tour.git/static/css/main.47490dcf.chunk.css",
-    "main.js": "/Code-Hero91/space-tour.git/static/js/main.2c911a26.chunk.js",
-    "main.js.map": "/Code-Hero91/space-tour.git/static/js/main.2c911a26.chunk.js.map",
-    "runtime-main.js": "/Code-Hero91/space-tour.git/static/js/runtime-main.1f686283.js",
-    "runtime-main.js.map": "/Code-Hero91/space-tour.git/static/js/runtime-main.1f686283.js.map",
-    "static/js/2.53f9837a.chunk.js": "/Code-Hero91/space-tour.git/static/js/2.53f9837a.chunk.js",
-    "static/js/2.53f9837a.chunk.js.map": "/Code-Hero91/space-tour.git/static/js/2.53f9837a.chunk.js.map",
-    "index.html": "/Code-Hero91/space-tour.git/index.html",
-    "static/css/main.47490dcf.chunk.css.map": "/Code-Hero91/space-tour.git/static/css/main.47490dcf.chunk.css.map",
-    "static/js/2.53f9837a.chunk.js.LICENSE.txt": "/Code-Hero91/space-tour.git/static/js/2.53f9837a.chunk.js.LICENSE.txt",
-    "static/media/home.css": "/Code-Hero91/space-tour.git/static/media/background-home-desktop.cdf3864e.jpg"
+    "main.css": "/space-tour/static/css/main.00607ef3.chunk.css",
+    "main.js": "/space-tour/static/js/main.2c911a26.chunk.js",
+    "main.js.map": "/space-tour/static/js/main.2c911a26.chunk.js.map",
+    "runtime-main.js": "/space-tour/static/js/runtime-main.6e6927d4.js",
+    "runtime-main.js.map": "/space-tour/static/js/runtime-main.6e6927d4.js.map",
+    "static/js/2.53f9837a.chunk.js": "/space-tour/static/js/2.53f9837a.chunk.js",
+    "static/js/2.53f9837a.chunk.js.map": "/space-tour/static/js/2.53f9837a.chunk.js.map",
+    "index.html": "/space-tour/index.html",
+    "static/css/main.00607ef3.chunk.css.map": "/space-tour/static/css/main.00607ef3.chunk.css.map",
+    "static/js/2.53f9837a.chunk.js.LICENSE.txt": "/space-tour/static/js/2.53f9837a.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/space-tour/static/media/background-home-desktop.cdf3864e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f686283.js",
+    "static/js/runtime-main.6e6927d4.js",
     "static/js/2.53f9837a.chunk.js",
-    "static/css/main.47490dcf.chunk.css",
+    "static/css/main.00607ef3.chunk.css",
     "static/js/main.2c911a26.chunk.js"
   ]
 }
